@@ -28,8 +28,9 @@ TypeError [ERR_INVALID_ARG_TYPE]: The "data" argument must be of type string or 
 
 
 
-##### 错误原因
+##### **错误原因**
 
 ​	gitbook与node版本不兼容（已知node-v14.17 与 gitbook3.2.3不兼容）
 
-##### 解决办法
+##### **解决办法**
+
