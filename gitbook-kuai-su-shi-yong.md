@@ -10,11 +10,9 @@ gitbook是一个基于Node.js的命令行工具，所以要先安装Node.js
 
 下载地址[node官网](https://nodejs.org/en/)
 
-建议下载v12版本[node-v12.22.1](https://nodejs.org/download/release/v12.22.1/node-v12.22.1-x64.msi)(高版本使用gitbook可能会报错
+建议下载v12版本[node-v12.22.1](https://nodejs.org/download/release/v12.22.1/node-v12.22.1-x64.msi)(高版本使用gitbook可能会报错)
 
 需勾选该选项（安装编译环境）
-
-须jiu
 
 ![](.gitbook/assets/Quicker\_20211013\_234855.png)
 
