@@ -1,10 +1,10 @@
 # Gitbook报错及解决方法
 
-## 1.if (cb) cb.apply(this, arguments)错误
+## 1. if (cb) cb.apply(this, arguments)错误
 
-![](https://f/mybook/1.png)
+![](.gitbook/assets/Quicker\_20211014\_012237.png)
 
-​ 1.打开报错文件[C:\Program Files\nodejs\node_modules\npm\node_modules\gentle-fs\polyfills.js](https://github.com/bei66/gitbook/tree/4fe5718c4cb568837395cc8e27714f975fff0785/Program%20Files/nodejs/node_modules/npm/node_modules/gentle-fs/polyfills.js)
+​ 1.打开报错目录[C:\Program Files\nodejs\node_modules\npm\node_modules\gentle-fs\polyfills.js](https://github.com/bei66/gitbook/tree/4fe5718c4cb568837395cc8e27714f975fff0785/Program%20Files/nodejs/node_modules/npm/node_modules/gentle-fs/polyfills.js)
 
 ​ 2.将62-64行代码注释
 
